@@ -19,9 +19,133 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## <img src="fosiles-indice.jpg"  height="80%" width="80%">
 
+## ![](deriva-pelegrini.jpg)
+
+## ![](deriva-taylor.jpg)
+
+## <img src="deriva-wegener.jpg"  width="31%">
+
+## ![](escudos-basaltos.jpg)
+
+## <img src="deriva-evidencia-paleontologica.jpg"  width="70%">
+
+## <img src="deriva-evidencia-distribucion-actual.jpg"  width="60%">
+
+## ![](placas-esquema-simplificado.jpg)
+
+## ![](edad-corteza-oceanica.jpg)
+
+## ![](tabla-cronoestratigrafica-internacional.jpg)
+
+## <img src="paleomagnetismo.jpg"  width="55%">
+
+## ![](desplazamiento-rotacion-continentes.jpg)
+
+## ![](modelo-actual.jpg)
+
+## <img src="historia-tectonica-continentes-1.jpg"  width="45%">
+
+## <img src="historia-tectonica-continentes-2.jpg"  width="45%">
+
+## <img src="historia-tectonica-continentes-3.jpg"  width="45%">
+
+## <img src="historia-tectonica-continentes-4.jpg"  width="45%">
+
+## <img src="reconstruccion-caribe.jpg"  width="75%">
+
+## <img src="reconstruccion-caribe-gaarlandia.jpg"  width="83%">
+
+## ![](gaarlandia.jpg)
+
+## <img src="gaarlandia-job.jpg"  width="82%">
+
+## <img src="evolucion-wallacea.jpg"  width="65%">
+
+## Procesos fundamentales en biogeografía
+
+* Evolución.
+
+* Extinción.
+
+* Dispersión.
+
+* Evolución y extinción están afectadas por la dispersión, y las tres por el contexto geográfico.
+
+## ![](sistematica.jpg)
+
+## ![](especie-concepto-evolutivo.jpg)
+
+## ![](especie-concepto-morfologico.jpg)
+
+## ![](especie-concepto-biologico.jpg)
+
+## ![](especie-concepto-filogenetico.jpg)
+
+## ![](especie-concepto-cohesion.jpg)
+
+## ![](subespecies-variedades.jpg)
+
+## Mecanismos de diferenciación genética
+
+* La divergencia a partir de una especies ancestral en una o más descendientes requiere de cambios genéticos.
+
+* Las diferentes formas de un gen dentro de un mismo *locus* (posición en el cromosoma) se conocen como __alelos__, y son los responsables de las diferencias de rasgos hereditarios entre individuos.
+
+## Mecanismos de diferenciación genética
+
+* Los alelos se forman por...
+
+    * __mutación__,
+    
+* ...y los cambios en las frecuencias de alelos ocurren principalmente por ...
+
+    * __deriva genética__,
+    * __selección natural__ y
+    * __flujo genético__.
+
+## Mutación
+
+* Cambio en el ADN por medio de sustitución de un único nucleótido, o por medio de borrado, inserción o inversión de uno o más nucleótidos.
+
+## Deriva genética
+
+* Es una "fuerza" relativamente débil, porque produce cambios en la constitución genética por azar.
+
+* Las frecuencias en los alelos cambian aleatoriamente a lo largo de varias generaciones.
+
+* Influye en poblaciones "pequeñas".
+
+## Selección natural
+
+* Fuerza potente que tiene lugar cuando individuos de una población expresan rasgos genéticos que alteran su interacción con el medio para mejorar su supervivencia y su reproducción en relación con otros individuos de la población.
+
+## Flujo genético
+
+* Actúa en dirección opuesto a la deriva genética y a la selección natural, impidiendo de la divergencia genética.
+
+* Si un grupo de individuos portando sus propios genes, migra hacia áreas con poblaciones aisladas, si se reproducen con éstas les "introducen" sus genes.
+
+## Especiación alopátrica. Modo 1 o vicarianza
+
+## <img src="alopatria-modo-1-vicarianza.jpg"  width="35%">
+
+## Especiación alopátrica. Modo 2 o periferia aislada
+
+* Modo 2: periferia aislada
+
+## <img src="alopatria-modo-2-periferia-aislada.jpg"  width="70%">
+
+## Especiación simpátrica y parapátrica
+
+## ![](simpatria-parapatria.jpg)
+
+## Otras formas de especiación:
+
+* Selección disruptiva: factores ambientales aislan población y se produce especiación.
 
 
 
+## ![](biogeografia-insular.jpg)
 
 ## Referencias
 
