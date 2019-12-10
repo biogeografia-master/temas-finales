@@ -1,0 +1,27 @@
+---
+title: "Temas finales"
+author: José Ramón Martínez Batlle
+date: 10 de diciembre de 2019
+output:
+  revealjs::revealjs_presentation:
+    transition: fade
+bibliography: biblio.bib
+csl: apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Los cambios en la Tierra
+
+## <img src="escala-tiempo-geologico.jpg"  height="90%" width="90%">
+
+## <img src="fosiles-indice.jpg"  height="80%" width="80%">
+
+
+
+
+
+## Referencias
+
